@@ -3,6 +3,8 @@ Hi, I'm [Tresquel](https://tresquel.github.io/)!
 
 I don't really do much here.
 
+I use Python and occasionally C#.
+
 # My projects
 Those are the projects I've been working on:
 * [JSONCleaner](https://github.com/Tresquel/JSONCleaner)
