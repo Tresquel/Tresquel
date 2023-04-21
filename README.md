@@ -1,16 +1,14 @@
 # Hello!
-Hi, I'm [Tresquel](https://tresquel.github.io/)!
+Hi, I'm Tresquel!
 
 I don't really do much here.
 
-I use Python and occasionally C#.
+I code in Python, Lua and sometimes C#.
 
 # My projects
-Those are the projects I've been working on:
+Those are some projects I've worked on/contributed to in the past:
+* [Retro Gadgets community docs](https://github.com/NexTre-dev/retro-gadgets-docs/)
+* [Retro Gadgets video player](https://github.com/Tresquel/RG-Video-player)
+* [MSCLoader Pro](https://github.com/MSCLoaderPro/MSCModLoaderPro)
 * [JSONCleaner](https://github.com/Tresquel/JSONCleaner)
-* [Random prnt.sc page](https://github.com/Tresquel/randomscreenshot)
-* [NFT downloader](https://github.com/Tresquel/NFT-heist)
-* [My website](https://github.com/Tresquel/tresquel.github.io)
 * [Teardown prefab helper](https://github.com/Tresquel/Teardown-Prefab-Helper)
-
-More will probably come with time.
