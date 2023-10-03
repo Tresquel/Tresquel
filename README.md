@@ -3,7 +3,7 @@ Hi, I'm Tresquel!
 
 I don't really do much here.
 
-I code in Python, Lua and sometimes C#.
+I code in Python, Lua, Rust (still learning) and sometimes C#
 
 # My projects
 Those are some projects I've worked on/contributed to in the past:
