@@ -8,7 +8,7 @@ I use mostly Rust, Lua and Python but I have a bit of experience in C# (Unity an
 Most of the projects I work on never get posted publicly but here are some of the ones that did:
 * [Retro Gadgets community docs](https://github.com/NexTre-dev/retro-gadgets-docs/)
 * [Retro Gadgets stuff](https://github.com/Tresquel/rgGadgets)
-* [JSONCleaner](https://github.com/Tresquel/JSONCleaner)
+* [mod7 key generator](https://github.com/Tresquel/mod7-keygen)
 * [Steam workshop mods](https://steamcommunity.com/id/itsamestachu/myworkshopfiles/) (mostly mods for Teardown and Retro Gadgets)
 
 
