@@ -1,5 +1,5 @@
 # Hello!
-Hi, I'm Stachu!
+Hi, my name is Stasiu!
 
 I don't really do much here.
 I use mostly Rust, Lua and Python but I have a bit of experience in C# (Unity and .Net) and HTML/CSS/JS
