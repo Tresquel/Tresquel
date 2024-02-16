@@ -2,8 +2,7 @@
 Hi, I'm Stachu!
 
 I don't really do much here.
-
-I code in Python, Lua, Rust (still learning) and sometimes C#
+I use mostly Rust, Lua and Python but I have a bit of experience in C# (Unity and .Net) and HTML/CSS/JS
 
 # My projects
 Those are some projects I've worked on/contributed to in the past:
