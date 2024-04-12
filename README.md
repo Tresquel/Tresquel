@@ -9,6 +9,7 @@ Most of the projects I work on never get posted publicly but here are some of th
 * [Retro Gadgets community docs](https://github.com/NexTre-dev/retro-gadgets-docs/)
 * [Retro Gadgets stuff](https://github.com/Tresquel/rgGadgets)
 * [mod7 key generator](https://github.com/Tresquel/mod7-keygen)
+* [Teardown patcher](https://github.com/Tresquel/teardown_patcher)
 * [Steam workshop mods](https://steamcommunity.com/id/itsamestachu/myworkshopfiles/) (mostly mods for Teardown and Retro Gadgets)
 
 
