@@ -10,6 +10,7 @@ Most of the projects I work on never get posted publicly but here are some of th
 * [Retro Gadgets stuff](https://github.com/Tresquel/rgGadgets)
 * [mod7 key generator](https://github.com/Tresquel/mod7-keygen)
 * [Teardown patcher](https://github.com/Tresquel/teardown_patcher)
+* [TDPath converter](https://github.com/Tresquel/td_path)
 * [Steam workshop mods](https://steamcommunity.com/id/itsamestachu/myworkshopfiles/) (mostly mods for Teardown and Retro Gadgets)
 
 
