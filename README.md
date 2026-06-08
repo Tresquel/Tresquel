@@ -1,7 +1,7 @@
 # Hello!
 Hi there, my name is Stasiu!
 
-I primarily work in Rust, Lua and NextJS, but I also have experience with Python, C#, Unity and Godot.
+I primarily work in Rust, Lua and React, but I also have experience with Python, C#, Unity and Godot.
 
 Check out my website to see my projects and more: [stachu.me](https://stachu.me)
 
